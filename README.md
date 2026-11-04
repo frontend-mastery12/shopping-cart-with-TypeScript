@@ -1,4 +1,4 @@
-![Project Thumbnail](YOUR_THUMBNAIL_IMAGE_URL)
+![Project Thumbnail](https://github.com/frontend-mastery12/shopping-cart-with-TypeScript/blob/257ac8b77f6885d494105d94864100098d01d74f/Every%20TypeScript%20Developer%20Should%20Build%20This%20Shopping%20Cart.png)
 
 # 🚀 Build a Shopping Cart with React & TypeScript | Learn TypeScript with One Project
 
@@ -153,11 +153,11 @@ src/
 
 ## 📽 Watch the Tutorial
 
-🎥 YouTube: YOUR_YOUTUBE_VIDEO_LINK
+🎥 YouTube: https://youtu.be/z-cDxBAWPG0
 
 ## 🌐 Live Preview
 
-🔗 Netlify: YOUR_LIVE_PREVIEW_LINK
+🔗 Netlify: https://velora-typescript.netlify.app/
 
 ## 👨‍💻 Author
 
